@@ -1,77 +1,68 @@
 {
   "skills": [
+    
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "img/html.png",
+      "title": "HTML",
+      "description": "HTML (Hypertext Markup Language) is the standard language for creating and structuring web pages."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "img/css.png",
+      "title": "CSS",
+      "description": "CSS (Cascading Style Sheets) is a styling language used to control the visual presentation of HTML elements on web pages."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "img/js.png",
+      "title": "JavaScript",
+      "description": "JavaScript is a versatile programming language primarily used for adding interactivity and dynamic behavior to web pages."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "img/react.png",
+      "title": "React js",
+      "description": "React.js is a JavaScript library for building user interfaces, providing a declarative and component-based approach."
+    },
+    {
+      "id": "5",
+      "src": "img/mui.png",
+      "title": "Material UI",
+      "description": "Material-UI is a React framework offering a comprehensive set of customizable and pre-designed components."
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/counter-app.PNG",
+      "title": "Passenger-Counter-App",
+      "description": "This application is designed to streamline the process of tracking passenger numbers.It offers solution  associated with manual counting methods.",
+    "demo":" https://boisterous-caramel-06d791.netlify.app"
     },
+
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/quiz app.PNG",
+      "title": "Quiz-App",
+      "description": "This application is designed to provide users with an interactive quiz experience. It presents users with a series of questions related to JavaScript programming.",
+      "demo": "https://favydabs.github.io/Quiz-App/"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/snip 1.PNG",
+      "title": "Ecommerce-Web-App",
+      "description": "The Ecommerce Web App is a fully-functional online platform designed to facilitate buying and selling of products or services over the internet",
+      "demo": "https://favydabs.github.io/Ecommerce-Web-App/"
     },
     {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
-  ]
+          "id": "4",
+          "src": "./img/youtube_clone.PNG",
+          "title": "youtube_clone_web2acx",
+          "description": "This is a simplified version of YouTube, replicating some of its core functionalities. It serves as an educational tool  for those interested in learning.",
+          "demo": "https://deft-smakager-197191.netlify.app"
+        }
+  
+   ]
+
 }

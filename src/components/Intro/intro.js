@@ -18,7 +18,14 @@ function Intro() {
           <br />
           visually and user friendly websites.
         </p>
-        <Link>
+        <Link
+          activeClass="active"
+          to="contact"
+          spy={true}
+          smooth={true}
+          offset={-50}
+          duration={500}
+        >
           <button className="btn">
             <img src={btnImg} alt="hire me" className="btnImg" /> Hire Me
           </button>
