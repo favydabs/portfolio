@@ -346,8 +346,14 @@ h2 {
 .portfolio--section--card:hover path {
   stroke: #006b6a;
 }
-a {
+.githref {
   color: white;
+}
+.demohref {
+  color: #0f0f0f;
+}
+.demohref:hover {
+  color: #5e3bee;
 }
 /* Portfolio Ends */
 
