@@ -25,7 +25,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 9ovw;
+  width: 35vw;
   max-width: 60rem;
 }
 
@@ -33,8 +33,8 @@
 .email,
 .msg {
   font-size: medium;
+  max-width: 60rem;
   width: 100%;
-  max-width: 40rem;
   margin: 0.5rem;
   padding: 0.5rem 1rem;
   color: white;

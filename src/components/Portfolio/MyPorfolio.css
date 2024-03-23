@@ -298,10 +298,11 @@ h2 {
   gap: 21.3px;
 }
 .portfolio--section--container {
-  display: flex;
-  align-items: center;
+  display: grid;
+  align-items: flex-start;
   justify-content: center;
   gap: 42.6px;
+  grid-template-columns: repeat(4, 1fr);
   width: 100%;
 }
 .portfolio--section--img {
@@ -344,6 +345,9 @@ h2 {
 }
 .portfolio--section--card:hover path {
   stroke: #006b6a;
+}
+a {
+  color: white;
 }
 /* Portfolio Ends */
 

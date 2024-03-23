@@ -6,7 +6,7 @@ import instagram from "../../assets/instagram.png";
 import linkedin from "../../assets/linkedin.png";
 import emailjs from "@emailjs/browser";
 
-function Contact() {
+function ContactMe() {
   const form = useRef();
 
   const sendEmail = (e) => {
@@ -40,18 +40,21 @@ function Contact() {
             type="text"
             className="name"
             placeholder="Your Name"
-            name="your_name"
+            name="user_name"
+            required
           />
           <input
             type="email"
             className="email"
             placeholder="Your Email"
-            name="your_email"
+            name="user_email"
+            required
           />
           <textarea
             className="msg"
             name="message"
             rows={5}
+            required
             placeholder="Your Message"
           ></textarea>
           <button type="submit" value="Send" className="submitBtn">
@@ -77,4 +80,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default ContactMe;
