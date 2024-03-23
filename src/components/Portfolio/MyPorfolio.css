@@ -349,11 +349,14 @@ h2 {
 .githref {
   color: white;
 }
+.githref:hover {
+  color: #0f0f0f;
+}
 .demohref {
   color: #0f0f0f;
 }
 .demohref:hover {
-  color: #5e3bee;
+  color: #02aeac;
 }
 /* Portfolio Ends */
 
