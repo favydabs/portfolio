@@ -74,6 +74,12 @@
   flex-direction: column;
   cursor: pointer;
 }
+@media screen and (max-width: 840px) {
+  .contactForm {
+    width: 25rem;
+  }
+
+}
 @media screen and (max-width: 480px) {
   .contactForm {
     width: 20rem;

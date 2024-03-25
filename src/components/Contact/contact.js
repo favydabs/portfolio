@@ -13,8 +13,8 @@ function ContactMe() {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_x61tgbw", "template_penvbhg", form.current, {
-        publicKey: "jOOUGprX9wt8fpBd7_WR_",
+      .sendForm("service_ek1i0y9", "template_penvbhg", form.current, {
+        publicKey: "zxQQI_jLBHwXMFzIw",
       })
       .then(
         () => {

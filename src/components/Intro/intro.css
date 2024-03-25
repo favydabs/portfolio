@@ -57,6 +57,14 @@
   .hello {
     font-size: 4.5vw;
   }
+
+  .introPara {
+    color: gold;
+    font-size: xx-large;
+  }
+  .introText {
+    color: gold;
+  }
 }
 
 @media screen and (max-width: 480px) {
