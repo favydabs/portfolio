@@ -63,4 +63,13 @@
   .bg {
     right: -20vw;
   }
+  .hello {
+    color: #0f0f0f;
+  }
+  p {
+    color: #0f0f0f;
+  }
+  .introText {
+    color: #0f0f0f;
+  }
 }
