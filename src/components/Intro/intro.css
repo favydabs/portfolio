@@ -74,10 +74,11 @@
   .hello {
     color: #0f0f0f;
   }
-  p {
+  .introPara{
     color: #0f0f0f;
+    font-size: xx-large;
   }
   .introText {
-    color: #0f0f0f;
+    color: gold;
   }
 }
