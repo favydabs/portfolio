@@ -49,9 +49,10 @@
 }
 @media screen and (max-width: 840px) {
   .bg {
-    right: -10vw;
+    right: -40vw;
+    width: 40rem;
   }
-  .introContent {
+  .introName .introContent {
     font-size: 10vw;
   }
   .hello {
@@ -62,9 +63,6 @@
     color: gold;
     font-size: xx-large;
   }
-  .introText {
-    color: gold;
-  }
 }
 
 @media screen and (max-width: 480px) {
@@ -74,9 +72,10 @@
   .hello {
     color: #0f0f0f;
   }
-  .introPara{
+  .introPara {
     color: #0f0f0f;
     font-size: xx-large;
+    font-weight: 300;
   }
   .introText {
     color: gold;
