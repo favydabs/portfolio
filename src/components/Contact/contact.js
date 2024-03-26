@@ -20,7 +20,9 @@ function ContactMe() {
         () => {
           console.log("SUCCESS!");
           e.target.reset();
-          alert("email sent");
+          alert(
+            "Thank you for reaching out to me.I will get back to you soon! "
+          );
         },
         (error) => {
           console.log("FAILED...", error.text);
@@ -40,14 +42,14 @@ function ContactMe() {
             type="text"
             className="name"
             placeholder="Your Name"
-            name="user_name"
+            name="from_name"
             required
           />
           <input
             type="email"
             className="email"
             placeholder="Your Email"
-            name="user_email"
+            name="from_email"
             required
           />
           <textarea
