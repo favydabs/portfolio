@@ -14,9 +14,11 @@ function Intro() {
           Frontend Developer
         </span>
         <p className="introPara">
-          I am a skilled Frontend developer with experiene in creating
+          I am a skilled Frontend developer 
           <br />
-          visually and user friendly websites.
+          with experiene in creating
+          <br/>
+          visually and user friendly <br/> websites.
         </p>
         <Link
           activeClass="active"

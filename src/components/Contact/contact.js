@@ -67,7 +67,7 @@ function ContactMe() {
               <img src={FacebookIcon} alt="facebook" className="link" />
             </a>
             <a href="https://x.com/Favydabs?t=77N5famP4ylD-wU_Dmcn_g&s=09">
-              <img src={twitter} alt="twitter" className="link" />
+              <img src={twitter} alt="twitter" className="twitter" />
             </a>
             <a href="https://www.instagram.com/favydabs?igsh=NzBhczhmZGpyOWw5">
               <img src={instagram} alt="instagram" className="link" />

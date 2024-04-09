@@ -30,6 +30,18 @@
       "src": "img/mui.png",
       "title": "Material UI",
       "description": "Material-UI is a React framework offering a comprehensive set of customizable and pre-designed components."
+    },
+    {
+      "id": "6",
+      "src": "img/figma.png",
+      "title": "Figma",
+      "description": "Figma is a cloud-based design and prototyping tool used by designers, developers, etc to create user interfaces. "
+    },
+    {
+      "id": "7",
+      "src": "img/wordpress.png",
+      "title": "WordPress",
+      "description": "WordPress allows users to create and manage websites of all kinds, from blogs and portfolios to e-commerce sites."
     }
   
   ],
