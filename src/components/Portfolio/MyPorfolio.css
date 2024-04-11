@@ -714,4 +714,9 @@ input[type="checkbox"] {
   }
 }
 
+/* @media only screen and (max-width: 400px) {
+.skills--section--container{
+  width: 100%;
+}
+} */
 /* Responsive Screens Ends*/

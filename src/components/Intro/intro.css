@@ -86,3 +86,26 @@
     font-size: 3rem;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .bg {
+    width: auto;
+    right: -30vw;
+  }
+  .hello {
+    color: #0f0f0f;
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+  .introPara {
+    color: #0f0f0f;
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  .introText {
+    color: gold;
+    font-size: 2rem;
+  }
+ 
+}
