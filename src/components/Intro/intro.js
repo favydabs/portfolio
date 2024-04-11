@@ -16,7 +16,7 @@ function Intro() {
         <p className="introPara">
           I am a skilled Frontend developer 
           <br />
-          with experiene in creating
+          with experience in creating
           <br/>
           visually and user friendly <br/> websites.
         </p>

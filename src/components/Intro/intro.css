@@ -47,13 +47,13 @@
   height: 1rem;
   border-radius: 0.3rem;
 }
-@media screen and (max-width: 840px) {
+@media only screen and (max-width: 840px) {
   .bg {
     right: -40vw;
     max-width: 40rem;
   }
   .introName .introContent {
-    font-size: 10vw;
+    font-size: 5vw;
   }
   .hello {
     font-size: 4.5vw;
@@ -66,20 +66,23 @@
   }
 }
 
-@media screen and (max-width: 500px) {
+@media only screen and (max-width: 500px) {
   .bg {
     right: -20vw;
   }
   .hello {
     color: #0f0f0f;
-    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 400;
   }
   .introPara {
     color: #0f0f0f;
-    font-size: xx-large; 
-     font-weight: 600;
+    font-size: 2rem;
+    font-weight: 500;
   }
+
   .introText {
     color: gold;
+    font-size: 3rem;
   }
 }
