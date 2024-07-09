@@ -1,4 +1,5 @@
 import bg from "../../assets/Favour copy.png";
+import "../portfolio.css";
 
 export default function AboutMe() {
   return (

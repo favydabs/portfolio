@@ -1,5 +1,5 @@
 import data from "../../data/index.json";
-import "./MyPorfolio.css";
+import "../portfolio.css";
 
 export default function MyPortfolio() {
   return (
