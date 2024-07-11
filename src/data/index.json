@@ -92,22 +92,8 @@
     "title": "to-do-list-web2acx",
     "description": "To-Do List App helps you manage your daily activities.The app makes it easy to create, prioritize, and track your to-do items with just a few taps.",
     "demo": "https://favydabs.github.io/to-do-list-web2acx/"
-  },
-  {
-    "id": "7",
-    "src": "./img/chatgpt.PNG",
-    "title": "-chatGpt-clone ",
-    "description": "This ChatGPT clone app provides a basic chat interface where users can interact with a bot that generates responses using predefined rules.",
-    "demo": "https://chat-gpt-clone-iota-brown.vercel.app/"
-  },
-  {
-    "id": "8",
-    "src": "./img/linkedin.PNG",
-    "title": "linkedin_clone ",
-    "description": "This is a simplified version of linkedin. It aims to replicate key features and functionalities of LinkedIn to provide users with a similar experience.",
-    "demo": "https://linkedin-clone-web2acx-zgq6.vercel.app/"
   }
-
+ 
 
    ]
 
