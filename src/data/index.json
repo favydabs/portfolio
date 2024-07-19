@@ -92,9 +92,15 @@
     "title": "to-do-list-web2acx",
     "description": "To-Do List App helps you manage your daily activities.The app makes it easy to create, prioritize, and track your to-do items with just a few taps.",
     "demo": "https://favydabs.github.io/to-do-list-web2acx/"
-  }
+  },
  
-
+  {
+    "id": "7",
+    "src": "./img/pacman.PNG",
+    "title": "Pacman(using arrow keys)",
+    "description": "In this game, The objective is to eat all the dots (pellets) while avoiding four ghosts.",
+    "demo": "https://favydabs.github.io/Pac-man_Game/"
+  }
    ]
 
    
